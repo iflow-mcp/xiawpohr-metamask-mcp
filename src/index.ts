@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { FastMCP } from "fastmcp";
 import { registerPrompts } from "./prompts/index";
 import { registerTools } from "./tools/register-tools";
